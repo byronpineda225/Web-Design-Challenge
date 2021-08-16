@@ -1,10 +1,9 @@
-https://byronpineda225.github.io/Web-Design-Challenge/
-
 # Web-Design-Challenge
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
 
+https://byronpineda225.github.io/Web-Design-Challenge/
 
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
