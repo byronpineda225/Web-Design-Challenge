@@ -3,7 +3,7 @@
 
 ## Background
 
-https://byronpineda225.github.io/Web-Design-Challenge/
+https://byronpineda225.github.io/Web-Design-Challenge/WebVisualizations/index.html
 
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
