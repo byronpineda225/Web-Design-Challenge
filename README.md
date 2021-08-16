@@ -3,7 +3,8 @@ Web Visualization Dashboard (Latitude)
 
 ## Background
 
-Link to the Weather Dashboard
+Link to the Weather Dashboard:
+
 https://byronpineda225.github.io/Web-Design-Challenge/WebVisualizations/index.html
 
 
