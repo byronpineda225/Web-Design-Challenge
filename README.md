@@ -1,8 +1,9 @@
 # Web-Design-Challenge
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+Web Visualization Dashboard (Latitude)
 
 ## Background
 
+Link to the Weather Dashboard
 https://byronpineda225.github.io/Web-Design-Challenge/WebVisualizations/index.html
 
 
